@@ -13,5 +13,6 @@
 //= require jquery
 //= require jquery_ujs
 //= require turbolinks
+//= require amazon-cognito.min
 //= require cognito
 //= require_tree .
