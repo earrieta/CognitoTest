@@ -14,3 +14,9 @@
 # Ignore all logfiles and tempfiles.
 /log/*.log
 /tmp
+
+# Ignore DS_Store files from OSX
+.DS_Store
+
+# Ignore AWS files
+aws-sdk.min.js
